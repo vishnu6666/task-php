@@ -10,3 +10,8 @@ RELATED COURSE - http://www.traversymedia.com/course/l...
 SlimPHP Site - https://www.slimframework.com/
 
 Get Composer - https://getcomposer.org/
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+for codeigniter api
+
+https://github.com/halimus/codeigniter-rest-api
